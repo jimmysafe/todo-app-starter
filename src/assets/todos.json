@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "text": "Complete project documentation",
+        "completed": false,
+        "createdAt": "2024-01-15T09:00:00.000Z",
+        "updatedAt": "2024-01-15T09:00:00.000Z"
+    },
+    {
+        "id": "2",
+        "text": "Review pull requests",
+        "completed": true,
+        "createdAt": "2024-01-14T14:30:00.000Z",
+        "updatedAt": "2024-01-15T08:45:00.000Z"
+    },
+    {
+        "id": "3",
+        "text": "Set up CI/CD pipeline",
+        "completed": false,
+        "createdAt": "2024-01-13T16:15:00.000Z",
+        "updatedAt": "2024-01-13T16:15:00.000Z"
+    },
+    {
+        "id": "4",
+        "text": "Write unit tests for user service",
+        "completed": true,
+        "createdAt": "2024-01-12T11:20:00.000Z",
+        "updatedAt": "2024-01-14T10:30:00.000Z"
+    },
+    {
+        "id": "5",
+        "text": "Optimize database queries",
+        "completed": false,
+        "createdAt": "2024-01-16T08:00:00.000Z",
+        "updatedAt": "2024-01-16T08:00:00.000Z"
+    },
+    {
+        "id": "6",
+        "text": "Update dependencies to latest versions",
+        "completed": false,
+        "createdAt": "2024-01-11T13:45:00.000Z",
+        "updatedAt": "2024-01-11T13:45:00.000Z"
+    },
+    {
+        "id": "7",
+        "text": "Fix responsive design issues",
+        "completed": true,
+        "createdAt": "2024-01-10T15:30:00.000Z",
+        "updatedAt": "2024-01-12T09:15:00.000Z"
+    },
+    {
+        "id": "8",
+        "text": "Implement user authentication",
+        "completed": false,
+        "createdAt": "2024-01-17T10:00:00.000Z",
+        "updatedAt": "2024-01-17T10:00:00.000Z"
+    },
+    {
+        "id": "9",
+        "text": "Conduct security audit",
+        "completed": false,
+        "createdAt": "2024-01-09T12:00:00.000Z",
+        "updatedAt": "2024-01-09T12:00:00.000Z"
+    },
+    {
+        "id": "10",
+        "text": "Deploy to production environment",
+        "completed": true,
+        "createdAt": "2024-01-08T17:20:00.000Z",
+        "updatedAt": "2024-01-13T14:50:00.000Z"
+    }
+]
